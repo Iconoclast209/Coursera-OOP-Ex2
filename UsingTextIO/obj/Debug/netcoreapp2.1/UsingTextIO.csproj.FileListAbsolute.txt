@@ -1,0 +1,11 @@
+C:\Users\Smith\Documents\Repos\Coursera-OOP-Ex2\UsingTextIO\obj\Debug\netcoreapp2.1\UsingTextIO.csprojAssemblyReference.cache
+C:\Users\Smith\Documents\Repos\Coursera-OOP-Ex2\UsingTextIO\obj\Debug\netcoreapp2.1\UsingTextIO.csproj.CoreCompileInputs.cache
+C:\Users\Smith\Documents\Repos\Coursera-OOP-Ex2\UsingTextIO\obj\Debug\netcoreapp2.1\UsingTextIO.AssemblyInfoInputs.cache
+C:\Users\Smith\Documents\Repos\Coursera-OOP-Ex2\UsingTextIO\obj\Debug\netcoreapp2.1\UsingTextIO.AssemblyInfo.cs
+C:\Users\Smith\Documents\Repos\Coursera-OOP-Ex2\UsingTextIO\bin\Debug\netcoreapp2.1\UsingTextIO.deps.json
+C:\Users\Smith\Documents\Repos\Coursera-OOP-Ex2\UsingTextIO\bin\Debug\netcoreapp2.1\UsingTextIO.runtimeconfig.json
+C:\Users\Smith\Documents\Repos\Coursera-OOP-Ex2\UsingTextIO\bin\Debug\netcoreapp2.1\UsingTextIO.runtimeconfig.dev.json
+C:\Users\Smith\Documents\Repos\Coursera-OOP-Ex2\UsingTextIO\bin\Debug\netcoreapp2.1\UsingTextIO.dll
+C:\Users\Smith\Documents\Repos\Coursera-OOP-Ex2\UsingTextIO\bin\Debug\netcoreapp2.1\UsingTextIO.pdb
+C:\Users\Smith\Documents\Repos\Coursera-OOP-Ex2\UsingTextIO\obj\Debug\netcoreapp2.1\UsingTextIO.dll
+C:\Users\Smith\Documents\Repos\Coursera-OOP-Ex2\UsingTextIO\obj\Debug\netcoreapp2.1\UsingTextIO.pdb
